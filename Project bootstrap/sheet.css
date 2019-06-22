@@ -1,0 +1,48 @@
+
+.jumbotron{
+	background-image: url(http://wallpapercave.com/wp/2uJmo4o.jpg);
+	height: 600px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	text-align: center;
+	
+}
+.jumbotron h1{
+	color: white;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-family: monospace;
+	font-weight: 600;
+  	font-size: 70px;
+  	text-transform: uppercase;
+  	letter-spacing: -5px;
+
+}
+.navbar-header a{
+	font-size: 20px;
+	font-family: monospace;
+}
+footer{
+	padding-left: 20px;
+	display: inline-block;
+}
+footer a{
+	color:white;
+	padding-left: 10px;
+	padding-bottom:0px
+}
+.btn-main{
+	color:white;
+	background-color:black;
+	font-size: 30px;
+	text-transform: uppercase;
+	font-family: monospace;	
+	letter-spacing: 1.30px
+	font-weight: 600;
+	font-size: 18px;
+	padding: 15px 40px;
+	text-align: center;
+}
+
+	
